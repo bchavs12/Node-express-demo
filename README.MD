@@ -1,1 +1,6 @@
-## Testing the NodeJS language and learn more about how to create a Basic API and boot a new brand server
+## Node.Js + Express + RESTfulAPI
+
+- Create Server with Express.js
+- Create a RESTfulAPI
+- HTTP Request & Response
+- HTTP Methods (GET, POST);
